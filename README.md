@@ -7,8 +7,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parleer&title_color=fff&icon_color=d3ff00&text_color=9f9f9f&bg_color=151515">
 </a>
 
-
-https://github-readme-stats.vercel.app/api/top-langs?username=c-lodder&title_color=fff&icon_color=d3ff00&text_color=9f9f9f&bg_color=151515
 <!--
 **parleer/parleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
