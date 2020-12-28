@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-See https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/
+Building a self-updating profile README for GitHub
+- https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+- https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/
 -->
