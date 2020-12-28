@@ -1,27 +1,12 @@
-### Hi there 👋
-
-<a href="https://github.com/parleer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=parleer&title_color=fff&icon_color=d3ff00&text_color=9f9f9f&bg_color=151515&show_icons=true">
-</a>
-<a href="https://github.com/C-Lodder">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parleer&title_color=fff&icon_color=d3ff00&text_color=9f9f9f&bg_color=151515">
-</a>
-
-<!--
-**parleer/parleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Building a self-updating profile README for GitHub
-- https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
-- https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/
--->
+<h1>Hi 👋</h1>
+<p><a href="https://www.twitter.com/parleer"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ryanparlee"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/parleer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@parleer"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/parleer"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p><a href="https://www.ryanparlee.com">➡️ Check out my website</a></p>
+  <a href="https://www.buymeacoffee.com/parleer" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+<h2>Latest Blog Posts</h2>
+<h2>Last Tweet</h2>
+<p><a href="https://www.twitter.com/parleer"><img src="https://github.com/parleer/parleer/blob/master/tweet.png" width="600"></a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=parleer&amp;show_icons=true" alt="GitHub Stats"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=parleer" alt="Top Langs"></p>

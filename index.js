@@ -49,7 +49,11 @@ md.use(emoji);
   ## Last Tweet\n
   ${twitterImage}\n\n
   ## GitHub Stats\n
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parleer&show_icons=true)`;
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parleer&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=parleer)`;
+
+  //https://github-readme-stats.vercel.app/api?username=parleer&title_color=fff&icon_color=d3ff00&text_color=9f9f9f&bg_color=151515&show_icons=true
+  //https://github-readme-stats.vercel.app/api/top-langs?username=parleer&title_color=fff&icon_color=d3ff00&text_color=9f9f9f&bg_color=151515
 
   const result = md.render(text);
 
