@@ -9,7 +9,7 @@ const Parser = require("rss-parser");
 
 const parser = new Parser();
 
-const feedUrl = "https://www.ryanparlee.com/rss.xml";
+const feedUrl = "https://ryanparlee.com/rss.xml";
 const websiteUrl = "https://www.ryanparlee.com";
 const twitterUrl = "https://www.twitter.com/parleer";
 const linkedInUrl = "https://www.linkedin.com/in/ryanparlee";
